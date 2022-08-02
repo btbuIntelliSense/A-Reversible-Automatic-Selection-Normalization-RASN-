@@ -14,3 +14,6 @@ https://www.mdpi.com/2073-4395/12/3/591
 2.``Comparison of conventional normalization methods``: including the source code of ``dense``, ``LSTM``, ``GRU``, ``BiLSTM``, ``BiGRU``, ``attentionLSTM`` and ``attentionGRU``, which are used to compare the performance of the model.  
   
 3.``mapping``: it is used to draw the comparison diagram of normalization method processing results and the display image of data set.  
+  
+## Figure  
+Corresponding to the illustrations in the paper, including ppt source files and matlab source files.
